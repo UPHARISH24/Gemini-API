@@ -1,16 +1,11 @@
-# space_pod
+# Gemini-api-assigment
+This assignment submission app will run with an API key, which will receive input from the user and push that data into Gemini AI using the API. After that, it will retrieve data from Gemini and display the results in the app.
 
-A new Flutter project.
+## Instructions on how to run the app:
 
-## Getting Started
+Run flutter pub get.
+Connect to an Android mobile device or Android emulator.
+Run flutter run.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots of the app.
+https://drive.google.com/drive/folders/1TNZtSVzVvr_Xuebppq46TC2HxllqG0ud?usp=sharing
